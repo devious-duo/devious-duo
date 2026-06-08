@@ -36,3 +36,9 @@ ac: twowo9
 Sav 333
 <a 
   </p>
+<p align="center"> 
+<a href="https://github.com/pityfull">Sean</a> ☆
+<a href="https://github.com/At1asOfWorlds">Atlas</a> ☆
+<a href="https://github.com/Abyssalruinssys">Abyssal</a> ☆
+<a 
+  </p>
