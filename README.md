@@ -40,5 +40,9 @@ Sav 333
 <a href="https://github.com/pityfull">Sean</a> ☆
 <a href="https://github.com/At1asOfWorlds">Atlas</a> ☆
 <a href="https://github.com/Abyssalruinssys">Abyssal</a> ☆
+<a href="https://github.com/arsenic-swag">Wil</a> ☆
+<a href="https://github.com/ringmasterr">Xin</a> ☆
+<a href="https://github.com/euijaee">Finn</a> ☆
+<a href="x.com/sofytdc">Pluto</a> ☆
 <a 
   </p>
