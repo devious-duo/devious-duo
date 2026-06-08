@@ -46,6 +46,7 @@ Sav 333
 <a href="https://x.com/sofytdc">Pluto</a> ☆
 <a href="https://github.com/spacebombed">Witch</a> ☆
 <a href="https://github.com/budgqie">Rafa</a> ☆
-<a href="https://github.com/MlNUTETECH">Eden</a>
+<a href="https://github.com/MlNUTETECH">Eden</a> ☆
+<a href="https://github.com/shuukura">Luci</a>
 <a 
   </p>
