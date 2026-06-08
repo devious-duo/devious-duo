@@ -20,3 +20,9 @@ ac: twowo9
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opjmhdhfk62csl2bzm6f5jkfyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
+
+<p align="center">Do not cover/take inspo, c+h is encouraged !!</p>
+<p align="center">Read strawpage for more info pls</p>
+<p align="center">Frontline devious duo warrior since well before mainstreamed uu. I earned this gh 🤬</p>
+<p align="center">Please sign ATA if you want direct answers to questions or want to tell me smthn ok ?</p> 
+<p align="center">Feel free to int, I love to make friends !! I'll be kinda dry at first but I get really easy to talk to later on.</p>
