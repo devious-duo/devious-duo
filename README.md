@@ -1,4 +1,4 @@
-<p align="center">Trusted / Jodi</p>
+$${\color{red}Trusted \space / \space Jodi \space}$$
 
 <p align="center">
   <a href="https://devious-duo.straw.page/">Strawpage</a> .
