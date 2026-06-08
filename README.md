@@ -44,5 +44,8 @@ Sav 333
 <a href="https://github.com/ringmasterr">Xin</a> ☆
 <a href="https://github.com/euijaee">Finn</a> ☆
 <a href="https://x.com/sofytdc">Pluto</a> ☆
+<a href="https://github.com/spacebombed">Witch</a> ☆
+<a href="https://github.com/budgqie">Rafa</a> ☆
+<a href="https://github.com/MlNUTETECH">Eden</a>
 <a 
   </p>
