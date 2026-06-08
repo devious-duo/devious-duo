@@ -43,6 +43,6 @@ Sav 333
 <a href="https://github.com/arsenic-swag">Wil</a> ☆
 <a href="https://github.com/ringmasterr">Xin</a> ☆
 <a href="https://github.com/euijaee">Finn</a> ☆
-<a href="x.com/sofytdc">Pluto</a> ☆
+<a href="https://x.com/sofytdc">Pluto</a> ☆
 <a 
   </p>
