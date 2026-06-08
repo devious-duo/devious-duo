@@ -23,7 +23,7 @@ ac: twowo9
   </a>
 </p>
 
-<p align="center">Do not cover/take inspo, c+h is encouraged !!</p>
+<p align="center">Do not copy/take inspo, c+h is encouraged !!</p>
 <p align="center">Read strawpage for more info pls</p>
 <p align="center">Frontline devious duo warrior since well before mainstreamed uu. I earned this gh 🤬</p>
 <p align="center">Please sign ATA if you want direct answers to questions or want to tell me smthn ok ?</p> 
