@@ -15,6 +15,7 @@
 <img src="https://cdn.phototourl.com/free/2026-06-08-ddef1fca-89e8-4226-94eb-fa3fde3c20ec.png"/>
 </p>
 ac: twowo9
+<h2></h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31opjmhdhfk62csl2bzm6f5jkfyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
