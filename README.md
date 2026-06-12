@@ -44,6 +44,7 @@ Sav 333
 <a href="https://github.com/Abyssalruinssys">Abyssal</a> ☆
 <a href="https://github.com/arsenic-swag">Wil</a> ☆
 <a href="https://github.com/AKlANGELL">Xin</a> ☆
+<a href="https://github.com/medievalduo">Dawn</a> ☆
 <a href="https://github.com/euijaee">Finn</a> ☆
 <a href="https://x.com/sofytdc">Pluto</a> ☆
 <a href="https://x.com/lumizangel">Izzy</a> ☆
