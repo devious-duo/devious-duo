@@ -52,7 +52,7 @@ Sav 333
 <a href="https://github.com/budgqie">Rafa</a> ☆
 <a href="https://github.com/MlNUTETECH">Eden</a> ☆
 <a href="https://github.com/shuukura">Luci</a> ☆
-<a href="https://github.com/smpokins">Mark😭🪦🕊️rip LOL</a> ☆
+<a href="https://github.com/smopkins">Mark😭🪦🕊️rip LOL</a> ☆
 <a href="https://github.com/chloewholly">Chloe</a>
 <a 
   </p>
