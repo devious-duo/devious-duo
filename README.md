@@ -28,6 +28,7 @@ ac: twow09
 <p align="center">Frontline devious duo warrior since well before mainstreamed uu. I earned this gh 🤬</p>
 <p align="center">Please sign ATA if you want direct answers to questions or want to tell me smthn ok ?</p> 
 <p align="center">Feel free to int, I love to make friends !! I'll be kinda shy and dry at first but I get really easy to talk to later on.</p>
+<p align="center">D1 ls!deviousduo misser. Man I miss them so bad..</p>\
 
 <h2></h2>
 <p align="center">⋆˙⟡ Lovemail !! ♡</p>
